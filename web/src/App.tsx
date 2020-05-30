@@ -1,13 +1,11 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom';
+import Routes from './routes';
 
-function App() {
-  return (
-    <p>
-      Edit
-      <code>src/App.tsx</code>
-      and save to reload.
-    </p>
-  );
-}
+const App: React.FC = () => (
+  <BrowserRouter>
+    <Routes />
+  </BrowserRouter>
+);
 
 export default App;
