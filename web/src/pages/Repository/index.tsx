@@ -1,7 +1,8 @@
 import React from 'react';
+import { Title } from './styles';
 
 const Repository: React.FC = () => {
-  return <p>Repository</p>;
+	return <Title>Repository</Title>;
 };
 
 export default Repository;
