@@ -1,6 +1,10 @@
-## Primeiro projeto com React
+## GitHub Explorer
 
-### About
+### Overview
+
+[GitHub Explorer](https://exploregits.now.sh) is the first project in React developed at bootcamp GoStack by Rocketseat.
+
+## Contents
 
 ### Technologies
 
